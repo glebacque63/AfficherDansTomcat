@@ -14,7 +14,7 @@ public class ModuloDivision {
 	
 	public static double division(double a, double b)
 	{
-		return (double)a/b;
+		return (double)a/b
 	}
 
 }
